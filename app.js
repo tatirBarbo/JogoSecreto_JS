@@ -4,7 +4,7 @@
 //paragrafo.innerHTML = 'Infome um número de 0 a 100';
 
 alteraTexto("h1", 'Hora do Desafio');
-alteraTexto("p", "Infome um número de 0 a 100");
+alteraTexto("p", "Infome um número de 0 a 50");
 
 function console1(){
     console.log('O botão foi clicado');
