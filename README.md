@@ -1,3 +1,3 @@
-<h1> Jogo do Número Secreto </h1>
+## Jogo do Número Secreto 
 
-Jogo criado para auxiliar no entendimento e fluxo de trabalho utilizando o GitHub e o Git.
+Jogo criado para auxiliar no entendimento e fluxo de trabalho utilizando o **GitHub** e o **Git**.
